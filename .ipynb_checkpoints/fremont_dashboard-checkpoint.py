@@ -350,5 +350,5 @@ elif chart_choice == "Cyclist Traffic by Sidewalk":
 
     st.info(
         "The East sidewalk recorded a higher total cyclist volume than the West sidewalk across the dataset. "
-        "This indicates an imbalance in cyclist usage between the two pathways, although the dataset does not provide sufficient information to explain the underlying cause."
+        "This indicates an imbalance in cyclist usage between the two pathways, potentially indicating a preference among cyclists towards the East sidewalk compared to the West sidewalk.
     )
